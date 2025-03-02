@@ -3,5 +3,5 @@
 
 
 
-[Download Splunk Enterprise](https://free.limacharlie.io/](https://www.splunk.com/en_us/download/splunk-enterprise.html)
+[Download Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 
