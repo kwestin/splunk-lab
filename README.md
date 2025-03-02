@@ -12,3 +12,16 @@
    
 ``` sudo tar xvzf  splunk-9.4.1-e3bdab203ac8-linux-amd64.tgz  -C /opt ```
 
+4. To start Splunk navigate to the Splunk bin folder
+
+``` cd /opt/splunk/bin  ```
+
+Then start Splunk by entering
+
+``` sudo ./splunk start ```
+
+You will be prompted to approve the license so just hit the space bar and agree to the terms. 
+
+5. Create a new Splunk administrator account name it "admin" and create a password and write it down. 
+6. Once Splunk has started up open Firefox and go to 127.0.0.1:8000 and log into Splunk with the admin username and password you just created. 
+
