@@ -27,4 +27,8 @@ You will be prompted to approve the license so just hit the space bar and agree 
 
 ![Splunk Login](/img/splunk1.png)
 
+7. Let's make it so that Splunk starts with the system boots, navigate back to the Splunk bin folder and enter this command: 
+
+```sudo ./splunk enable boot-start ```
+
 
