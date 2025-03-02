@@ -1,1 +1,7 @@
-# splunk-lab
+# ELI 211 Splunk Lab
+
+
+
+
+[Download Splunk Enterprise](https://free.limacharlie.io/](https://www.splunk.com/en_us/download/splunk-enterprise.html)
+
