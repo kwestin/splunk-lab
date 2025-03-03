@@ -40,3 +40,7 @@ You will be prompted to approve the license so just hit the space bar and agree 
 
 ![Splunk Data Import](/img/splunk2.png)
 
+3. Next click on "Upload" 
+
+![Splunk Data Import](/img/splunk3.png)
+
