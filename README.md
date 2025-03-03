@@ -33,7 +33,9 @@ You will be prompted to approve the license so just hit the space bar and agree 
 
 ## Lab 2: Onboarding Data
 
-1. We will onboard a CSV file of logins to simulate application logins. Download 
-[Download authentication.csv](authentication.csv)
+1. We will onboard a CSV file of logins to simulate application logins.  
+[Download authentication.csv](authentication.csv) to your downloads folder
+
+2. 
 
 
