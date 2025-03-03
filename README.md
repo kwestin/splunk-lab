@@ -40,7 +40,8 @@ You will be prompted to approve the license so just hit the space bar and agree 
 
 ![Splunk Data Import](/img/splunk2.png)
 
-3. Next click on "Upload" 
+3. Next click on "Upload" and select the "authentication.csv" file in your downloads folder
 
 ![Splunk Data Import](/img/splunk3.png)
 
+![Splunk Data Import](/img/splunk4.png)
