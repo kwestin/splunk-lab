@@ -1,7 +1,7 @@
 # ELI 211 Splunk Lab
 
 
-##Intalling Splunk
+## Lab 1: Installing Splunk
 
 1. [Download Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html), we will be downloading the tar file (.tgz extension)
 2. Open the Terminal and navigate to the Downloads folder:
@@ -30,5 +30,9 @@ You will be prompted to approve the license so just hit the space bar and agree 
 7. Let's make it so that Splunk starts with the system boots, navigate back to the Splunk bin folder and enter this command: 
 
 ```sudo ./splunk enable boot-start ```
+
+## Lab 2: Onboarding Data
+
+1. We will onboard a CSV file of logins to simulate application logins. Download authentication.csv
 
 
