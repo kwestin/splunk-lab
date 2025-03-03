@@ -45,3 +45,9 @@ You will be prompted to approve the license so just hit the space bar and agree 
 ![Splunk Data Import](/img/splunk3.png)
 
 ![Splunk Data Import](/img/splunk4.png)
+
+4. Go through the wizard to import the CSV file, notice that the timestamp automatically is identified as a timestamp
+
+![Splunk Data Import](/img/splunk5.png)
+![Splunk Data Import](/img/splunk6.png)
+
