@@ -51,3 +51,5 @@ You will be prompted to approve the license so just hit the space bar and agree 
 ![Splunk Data Import](/img/splunk5.png)
 ![Splunk Data Import](/img/splunk6.png)
 
+## Lab 3: Searching in Splunk
+
