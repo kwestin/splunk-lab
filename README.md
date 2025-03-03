@@ -53,3 +53,7 @@ You will be prompted to approve the license so just hit the space bar and agree 
 
 ## Lab 3: Searching in Splunk
 
+1. Go to the "Search & Reporting" app and search ```index=main``` not the available fields and timeline. 
+
+2. Now search for failed logons, how many are there? How about a successful logons? 
+
