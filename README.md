@@ -65,5 +65,5 @@ Reference: Splunk SPL (
 
 1.  [Download the Apache access.log file](access.log) you will notice that Splunk automatically identifies this as Apache as "access_combined"
 
-![Splunk Data Import](/img/splunk7.png)
+![Splunk Data Import](/img/splunk8.png)
 
