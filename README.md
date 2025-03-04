@@ -119,6 +119,9 @@ Enter "[Your Name] Security Report Requests]" as the name of the report, keep th
 
 ![Splunk Data Import](/img/splunk12.png) 
 
-Click on the print icon and save it as a PDF, email it to me. 
-
 ![Splunk Data Import](/img/splunk13.png) 
+
+Click on the print icon and save it as a PDF, email it to me. 
+![Splunk Data Import](/img/splunk14.png) 
+
+
