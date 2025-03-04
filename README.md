@@ -1,4 +1,4 @@
-# ELI 211 Splunk Lab
+<img width="977" alt="image" src="https://github.com/user-attachments/assets/49b9efbe-254b-4511-86b6-53b850cef9b0" /># ELI 211 Splunk Lab
 
 
 ## Lab 1: Installing Splunk
@@ -63,5 +63,7 @@ Reference: Splunk SPL (
 
 ## Lab 3: 
 
-1.  [Download the Apache access.log file](access.log)
+1.  [Download the Apache access.log file](access.log) you will notice that Splunk automatically identifies this as Apache as "access_combined"
+
+![Splunk Data Import](/img/splunk7.png)
 
