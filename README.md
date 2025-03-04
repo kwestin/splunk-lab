@@ -67,3 +67,8 @@ Reference: Splunk SPL (
 
 ![Splunk Data Import](/img/splunk8.png)
 
+2. After you have ingested the access.log file go to the "Search & Reporting" app and search:
+
+```index="main" sourcetype="access_combined" ```
+
+Once the results appear click on the "Patterns" tab, what did Splunk identify in the data? 
