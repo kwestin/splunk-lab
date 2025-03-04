@@ -125,4 +125,9 @@ Enter "[Your Name] Security Report Requests]" as the name of the report, keep th
 Click on the print icon and save it as a PDF, email it to me. 
 ![Splunk Data Import](/img/splunk14.png) 
 
+## Bonus Lab 5: Capture the Flag Practice
 
+Feel free to work by yourself or in groups and try to answer these questions based on the data available. 
+
+1. Group and sort the response codes in the access_combined (Apache) logs, what is the most common response code? What is the most unique?
+2. When it comes the "clientip" what IP address is the "top talker" (from which IP is there the most traffic)?
