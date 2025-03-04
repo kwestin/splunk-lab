@@ -80,3 +80,5 @@ Once the results appear click on the "Patterns" tab, what did Splunk identify in
 5. Write a query using wildcards that returns only the IP addresses that start with 100.
 
 ``` index="main" clientip=100.*.*.* ```
+
+6. Spend some time looking through the data and trying new queries
