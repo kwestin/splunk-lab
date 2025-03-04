@@ -63,7 +63,7 @@ Reference: Splunk SPL (
 
 ## Lab 3: 
 
-1.  [Download the Apache access.log file](access.log) you will notice that Splunk automatically identifies this as Apache as "access_combined"
+1.  [Download the Apache access.log file](access.log) you will notice that Splunk automatically identifies the sourcetype as "access_combined" which is for the Apache Web Server
 
 ![Splunk Data Import](/img/splunk8.png)
 
