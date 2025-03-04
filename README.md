@@ -72,3 +72,5 @@ Reference: Splunk SPL (
 ```index="main" sourcetype="access_combined" ```
 
 Once the results appear click on the "Patterns" tab, what did Splunk identify in the data? 
+
+3. Go back to the Events tab and under "Interesting Fields" find the "file" what is the top file requested? Click on it and you should have file="login.php" added to your search.
