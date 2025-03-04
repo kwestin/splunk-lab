@@ -84,3 +84,13 @@ Once the results appear click on the "Patterns" tab, what did Splunk identify in
 6. Spend some time looking through the data and trying new queries
 
 ## Lab 4: Data Visualization
+
+Splunk has incredibly powerful visualization capabilities. One of the easiest to use is the table layout, copy and past this into your search:
+
+```
+index="main"
+| table _time, clientip, method, uri, useragent
+| dedup useragent
+
+```
+
