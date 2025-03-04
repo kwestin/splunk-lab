@@ -31,7 +31,10 @@ You will be prompted to approve the license so just hit the space bar and agree 
 
 ```sudo ./splunk enable boot-start ```
 
-## Lab 2: Onboarding Data
+## Lab 2: Onboarding Data & Basic Searching
+
+Reference: Splunk SPL (
+[Splunk SPL (Search Processing Language)](https://docs.splunk.com/Documentation/SplunkCloud/9.2.2403/SearchReference/UnderstandingSPLsyntax)
 
 1. We will onboard a CSV file of logins to simulate application logins.  
 [Download authentication.csv](authentication.csv) to your downloads folder
@@ -51,15 +54,10 @@ You will be prompted to approve the license so just hit the space bar and agree 
 ![Splunk Data Import](/img/splunk5.png)
 ![Splunk Data Import](/img/splunk6.png)
 
-## Lab 3: Searching in Splunk
 
-Reference: Splunk SPL (
-[Splunk SPL (Search Processing Language)](https://docs.splunk.com/Documentation/SplunkCloud/9.2.2403/SearchReference/UnderstandingSPLsyntax)
+5. Go to the "Search & Reporting" app and search ```index=main``` note the available fields and timeline. 
 
+6. Now search for failed logons, how many are there? How about a successful logons? 
 
-1. Go to the "Search & Reporting" app and search ```index=main``` note the available fields and timeline. 
-
-2. Now search for failed logons, how many are there? How about a successful logons? 
-
-3. Experiment with using the wildcard character "*" in a search
+7. Experiment with using the wildcard character "*" in a search
 
