@@ -82,3 +82,5 @@ Once the results appear click on the "Patterns" tab, what did Splunk identify in
 ``` index="main" clientip=100.*.*.* ```
 
 6. Spend some time looking through the data and trying new queries
+
+## Lab 4: Data Visualization
