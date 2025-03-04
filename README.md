@@ -114,7 +114,9 @@ From the "Chart" menu select the map, you should see a nice visual map showing w
 
 3. Let's save this as a report so we can share it with others on the security team. Click on "Save As" and then "Report"
 
-Enter "[Your Name] Security Report Requests]" as the name of the report, keep 
+Enter "[Your Name] Security Report Requests]" as the name of the report, keep the map as the visualization type. 
 ![Splunk Data Import](/img/splunk11.png)
 
-![Splunk Data Import](/img/splunk12.png)
+![Splunk Data Import](/img/splunk12.png) 
+
+Click on the print icon and save it as a PDF, email it to me. 
