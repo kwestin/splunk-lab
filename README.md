@@ -1,4 +1,4 @@
-<img width="977" alt="image" src="https://github.com/user-attachments/assets/49b9efbe-254b-4511-86b6-53b850cef9b0" /># ELI 211 Splunk Lab
+# ELI 211 Splunk Lab
 
 
 ## Lab 1: Installing Splunk
