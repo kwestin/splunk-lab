@@ -106,7 +106,7 @@ index="main"
 | geostats count by Country
 
 ```
-From the "
+From the "Chart" menu select the map, you should see a nice visual map showing where the most traffic is coming from:
 
 ![Splunk Data Import](/img/splunk9.png)
 
