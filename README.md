@@ -111,3 +111,9 @@ From the "Chart" menu select the map, you should see a nice visual map showing w
 ![Splunk Data Import](/img/splunk9.png)
 
 ![Splunk Data Import](/img/splunk10.png)
+
+3. Let's save this as a report so we can share it with others on the security team. Click on "Save As" and then "Report"
+
+![Splunk Data Import](/img/splunk11.png)
+
+![Splunk Data Import](/img/splunk12.png)
