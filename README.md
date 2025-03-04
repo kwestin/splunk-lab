@@ -61,7 +61,7 @@ Reference: Splunk SPL (
 
 7. Experiment with using the wildcard character "*" in a search
 
-## Lab 3: 
+## Lab 3: Searching with SPL
 
 1.  [Download the Apache access.log file](access.log) you will notice that Splunk automatically identifies the sourcetype as "access_combined" which is for the Apache Web Server
 
