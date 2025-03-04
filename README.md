@@ -54,7 +54,7 @@ You will be prompted to approve the license so just hit the space bar and agree 
 ## Lab 3: Searching in Splunk
 
 Reference: Splunk SPL (
-[Splunk SPL (Search Processing Language](https://docs.splunk.com/Documentation/SplunkCloud/9.2.2403/SearchReference/UnderstandingSPLsyntax)
+[Splunk SPL (Search Processing Language)](https://docs.splunk.com/Documentation/SplunkCloud/9.2.2403/SearchReference/UnderstandingSPLsyntax)
 
 
 1. Go to the "Search & Reporting" app and search ```index=main``` note the available fields and timeline. 
