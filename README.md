@@ -61,3 +61,7 @@ Reference: Splunk SPL (
 
 7. Experiment with using the wildcard character "*" in a search
 
+## Lab 3: 
+
+1.  [Download the Apache access.log file](access.log)
+
