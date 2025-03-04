@@ -106,4 +106,8 @@ index="main"
 | geostats count by Country
 
 ```
+From the "
 
+![Splunk Data Import](/img/splunk9.png)
+
+![Splunk Data Import](/img/splunk10.png)
