@@ -97,3 +97,13 @@ index="main"
 ```
 
 What do you notice?
+
+2. We can use a neat tool in Splunk called ``` iplocation ``` to get geolocation data from IP addresses, then put the data on a map using the ``` geostats ``` command. 
+
+```
+index="main"
+| iplocation clientip
+| geostats count by Country
+
+```
+
