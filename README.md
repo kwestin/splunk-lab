@@ -74,3 +74,5 @@ Reference: Splunk SPL (
 Once the results appear click on the "Patterns" tab, what did Splunk identify in the data? 
 
 3. Go back to the Events tab and under "Interesting Fields" find the "file" what is the top file requested? Click on it and you should have file="login.php" added to your search.
+
+4. Using the same method what is the top IP address when you look at the "clientip" field?
