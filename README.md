@@ -10,7 +10,7 @@
 
 3. We will use the tar utility to open the file and install it in the opt directory:
    
-``` sudo tar xvzf  splunk-9.4.1-e3bdab203ac8-linux-amd64.tgz  -C /opt ```
+``` sudo tar -xvzf splunk-9.4.1-e3bdab203ac8-linux-amd64.tgz  -C /opt ```
 
 4. To start Splunk navigate to the Splunk bin folder
 
